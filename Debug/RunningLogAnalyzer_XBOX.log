@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\hillk\source\repos\RunningLogAnalyzer_XBOX\main.cpp(176,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hillk\source\repos\RunningLogAnalyzer_XBOX\main.cpp(205,34): warning C4018: '>': signed/unsigned mismatch
+C:\Users\hillk\source\repos\RunningLogAnalyzer_XBOX\main.cpp(209,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hillk\source\repos\RunningLogAnalyzer_XBOX\main.cpp(216,34): warning C4018: '<': signed/unsigned mismatch
+  RunningLogAnalyzer_XBOX.vcxproj -> C:\Users\hillk\source\repos\RunningLogAnalyzer_XBOX\Debug\RunningLogAnalyzer_XBOX.exe
