@@ -5,9 +5,11 @@ This test.txt was developed from my personal excel running log and the
 python regex project in the PythonRegularExpressions repository.
 The format for the test.txt is below:
 
+```
 mileage as a whole number
 details
 date
+```
 
 example:
 ```
