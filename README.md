@@ -10,7 +10,7 @@ details
 date
 
 example:
-
+```
 10
 run 10mi
 2014-08-01
@@ -20,3 +20,4 @@ run 4mi
 5
 run 5mi/plyometrics
 2014-08-03
+```
